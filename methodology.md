@@ -1,0 +1,4 @@
+- start with solidity metrics to get overview
+- start with solgraph as call graph analyzer
+- check inheritance graph with vsd ex
+- check uml, callgraph, function profile
